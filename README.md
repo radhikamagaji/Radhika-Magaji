@@ -8,6 +8,8 @@ With a solid foundation in web development and a deep fascination for the creati
 If you share a passion for data, art, or dance, I would love to connect and collaborate. 
 Let's embark on this incredible journey together!
 
+🔭 I'm currently working on a project for a non-profit, helping them make the most of the donor database, by providing insights on their data and improving fund raising efforts.
+
 Skills: 
 
 * 💹Data Analysis
