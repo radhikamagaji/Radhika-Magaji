@@ -4,11 +4,13 @@ With a solid foundation in web development and a deep fascination for the creati
 
 💡 I strive to combine my technical skills, artistic flair, and analytical mindset to create impactful data-driven solutions. 
 
+🔭 I'm currently working on a project for a non-profit, helping them make the most of the donor database, by providing insights on their data and improving fund raising efforts.
+
 🤝 I aspire to work on projects that not only push the boundaries of what is possible but also positively impact people's lives.
-If you share a passion for data, art, or dance, I would love to connect and collaborate. 
+If you share a passion for data, or art, I would love to connect and collaborate. 
 Let's embark on this incredible journey together!
 
-🔭 I'm currently working on a project for a non-profit, helping them make the most of the donor database, by providing insights on their data and improving fund raising efforts.
+
 
 Skills: 
 
