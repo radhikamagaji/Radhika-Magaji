@@ -15,6 +15,8 @@ Skills:
 * 📊Data visualization
 
 Social accounts:
-[Radhika's LinkedIn](https://www.linkedin.com/in/radhika-magaji/).
-[Radhika's Portfolio](https://radhikamagaji.github.io/radhika/).
-[Radhika's NovyPro](https://www.novypro.com/profile_projects/radhikamagaji).
+[LinkedIn](https://www.linkedin.com/in/radhika-magaji/)
+
+[Portfolio](https://radhikamagaji.github.io/radhika/)
+
+[NovyPro](https://www.novypro.com/profile_projects/radhikamagaji)
