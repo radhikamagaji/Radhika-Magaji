@@ -15,4 +15,9 @@ Skills:
 * 📊Data visualization
 
 Social accounts: 
-[LinkedIn](https://www.linkedin.com/in/radhika-magaji/) | [Portfolio](https://radhikamagaji.github.io/radhika/) | [NovyPro](https://www.novypro.com/profile_projects/radhikamagaji)
+
+[LinkedIn](https://www.linkedin.com/in/radhika-magaji/)
+
+[Portfolio](https://radhikamagaji.github.io/radhika/) 
+
+[NovyPro](https://www.novypro.com/profile_projects/radhikamagaji)
