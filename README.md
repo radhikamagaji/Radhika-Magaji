@@ -13,3 +13,8 @@ Skills:
 * 🖇️Data Wrangling
 * 📈Machine Learning
 * 📊Data visualization
+
+Social accounts:
+[Radhika's LinkedIn](https://www.linkedin.com/in/radhika-magaji/).
+[Radhika's Portfolio](https://radhikamagaji.github.io/radhika/).
+[Radhika's NovyPro](https://www.novypro.com/profile_projects/radhikamagaji).
