@@ -12,8 +12,6 @@ Skills:
 
 Social accounts: 
 
-[LinkedIn](https://www.linkedin.com/in/radhika-magaji/)
-
-[Portfolio](https://radhikamagaji.github.io/radhika/) 
-
+[LinkedIn](https://www.linkedin.com/in/radhika-magaji/) | 
+[Portfolio](https://www.datascienceportfol.io/radhikamagaji) | 
 [NovyPro](https://www.novypro.com/profile_projects/radhikamagaji)
